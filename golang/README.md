@@ -9,3 +9,8 @@
 * How easy is to do a "Hello World" app?
 * And finnaly, how do I feel programming on this environment?
 
+## My conclusion
+
+
+
+## Further steps
